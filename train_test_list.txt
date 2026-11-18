@@ -1,1 +1,844 @@
+---- Train Cases ----
+Test Case Information: 
+    Source: ARC-RM-2822/1_Wing_A
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/1_Wing_A
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 2.1 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/1_Wing_A
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 4.2 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/1_Wing_A
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 6.2 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/1_Wing_A
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 8.3 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/1_Wing_A
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 10.4 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR2.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR2.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR2.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 4.1 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR2.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 8.1 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR2.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 10.2 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR3.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR3.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 2.1 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR3.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 4.1 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR3.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 6.2 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR3.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 8.2 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR3.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 10.3 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: NACA-TM-1107+1126/sweep
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 35.0 deg
+        Taper ratio    : 0.5
+        Semi-span / c  : 1.88
+    Operating condition: 
+        Angle of attack : 12.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NACA-TM-1107+1126/taper
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 3.81 deg
+        Taper ratio    : 0.5
+        Semi-span / c  : 1.88
+    Operating condition: 
+        Angle of attack : 12.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : -4.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 4.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 6.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 8.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 10.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 12.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-CR-195330/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.48
+    Operating condition: 
+        Angle of attack : -2.0 deg
+        Freestream Mach : 0.15
+Test Case Information: 
+    Source: NASA-TM-4227
+    Geometry: 
+        Airfoil section: NACA 64A-105
+        LE sweep angle : 42.0 deg
+        Taper ratio    : 0.31754386
+        Semi-span / c  : 0.48
+    Operating condition: 
+        Angle of attack : -4.26 deg
+        Freestream Mach : 0.297
+Test Case Information: 
+    Source: NASA-TM-4227
+    Geometry: 
+        Airfoil section: NACA 64A-105
+        LE sweep angle : 42.0 deg
+        Taper ratio    : 0.31754386
+        Semi-span / c  : 0.48
+    Operating condition: 
+        Angle of attack : -2.29 deg
+        Freestream Mach : 0.297
+Test Case Information: 
+    Source: NASA-TM-4227
+    Geometry: 
+        Airfoil section: NACA 64A-105
+        LE sweep angle : 42.0 deg
+        Taper ratio    : 0.31754386
+        Semi-span / c  : 0.48
+    Operating condition: 
+        Angle of attack : -0.01 deg
+        Freestream Mach : 0.298
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.499
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.602
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.695
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 1.0 deg
+        Freestream Mach : 0.499
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 1.0 deg
+        Freestream Mach : 0.602
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 1.0 deg
+        Freestream Mach : 0.695
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.498
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.601
+Test Case Information: 
+    Source: NASA-TM-84367
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 20.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.5
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.695
+Test Case Information: 
+    Source: NASA-TM-86308
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.5
+    Operating condition: 
+        Angle of attack : 7.5 deg
+        Freestream Mach : 0.12
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : 10.96 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : -5.91 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : -3.78 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : -1.69 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : -0.62 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : 0.42 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : 2.53 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : 4.64 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : 6.75 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: Srivathsan-2023
+    Geometry: 
+        Airfoil section: NACA0023
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.06
+    Operating condition: 
+        Angle of attack : 10.0 deg
+        Freestream Mach : 0.09
 
+---- Test Cases ----
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.4
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 1.05 deg
+        Freestream Mach : 0.4
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 0.0 deg
+        Freestream Mach : 0.4
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 4.03 deg
+        Freestream Mach : 0.5
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.01 deg
+        Freestream Mach : 0.5
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 1.06 deg
+        Freestream Mach : 0.5
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 0.04 deg
+        Freestream Mach : 0.5
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 4.01 deg
+        Freestream Mach : 0.6
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.01 deg
+        Freestream Mach : 0.6
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 1.01 deg
+        Freestream Mach : 0.6
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 0.03 deg
+        Freestream Mach : 0.6
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 4.01 deg
+        Freestream Mach : 0.7
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.01 deg
+        Freestream Mach : 0.7
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 1.04 deg
+        Freestream Mach : 0.7
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 0.03 deg
+        Freestream Mach : 0.7
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 4.01 deg
+        Freestream Mach : 0.3
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.3
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 1.02 deg
+        Freestream Mach : 0.3
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 0.03 deg
+        Freestream Mach : 0.3
+Test Case Information: 
+    Source: NASA-TM-104211/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 3.99 deg
+        Freestream Mach : 0.4
+asdf
+Test Case Information: 
+    Source: NASA-TP-3151
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.29
+    Operating condition: 
+        Angle of attack : 4.1 deg
+        Freestream Mach : 0.17
+Test Case Information: 
+    Source: NASA-TP-3151
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.29
+    Operating condition: 
+        Angle of attack : 8.0 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TP-3151
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.29
+    Operating condition: 
+        Angle of attack : 12.0 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: NASA-TP-3151
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.29
+    Operating condition: 
+        Angle of attack : 4.0 deg
+        Freestream Mach : 0.2
+Test Case Information: 
+    Source: NASA-TP-3151
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.29
+    Operating condition: 
+        Angle of attack : 8.0 deg
+        Freestream Mach : 0.2
+Test Case Information: 
+    Source: NASA-TP-3151
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 3.29
+    Operating condition: 
+        Angle of attack : 12.0 deg
+        Freestream Mach : 0.2
+Test Case Information: 
+    Source: Spivey-1970
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.67
+    Operating condition: 
+        Angle of attack : 11.8 deg
+        Freestream Mach : 0.17
+Test Case Information: 
+    Source: Szafruga-1994
+    Geometry: 
+        Airfoil section: NACA0015
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 12.0 deg
+        Freestream Mach : 0.0
+Test Case Information: 
+    Source: NASA-TN-D-8307/rectangular
+    Geometry: 
+        Airfoil section: NACA0012
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.95
+    Operating condition: 
+        Angle of attack : 8.85 deg
+        Freestream Mach : 0.13
+Test Case Information: 
+    Source: ARC-RM-2822/2_Wing_AR2.0
+    Geometry: 
+        Airfoil section: RAE101
+        LE sweep angle : 45.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 1.0
+    Operating condition: 
+        Angle of attack : 6.1 deg
+        Freestream Mach : 0.14
+Test Case Information: 
+    Source: NASA-TM-1999-209130
+    Geometry: 
+        Airfoil section: RectangularSupercritical
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.22 deg
+        Freestream Mach : 0.404
+Test Case Information: 
+    Source: NASA-TM-1999-209130
+    Geometry: 
+        Airfoil section: RectangularSupercritical
+        LE sweep angle : 0.0 deg
+        Taper ratio    : 1.0
+        Semi-span / c  : 2.0
+    Operating condition: 
+        Angle of attack : 2.0 deg
+        Freestream Mach : 0.604
